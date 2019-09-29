@@ -1,0 +1,13 @@
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 0vh;
+    background: #1d5031;
+    color: white;
+}
+
+.logo {
+    height: 30px;
+}
